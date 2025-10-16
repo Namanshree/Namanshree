@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/naman-shree"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-I am a recent Computer Science graduate with a strong determination to excel in Data Science and Analytics[cite: 5]. [cite_start]My expertise lies in data analysis, statistical methods, and Python programming[cite: 6]. [cite_start]I am passionate about transforming raw data into actionable insights and am ready to apply my problem-solving and data-driven decision-making skills in a professional role.
+I am a recent Computer Science graduate with a strong determination to excel in Data Science and Analytics. My expertise lies in data analysis, statistical methods, and Python programming. I am passionate about transforming raw data into actionable insights and am ready to apply my problem-solving and data-driven decision-making skills in a professional role.
 
 ---
 
