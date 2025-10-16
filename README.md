@@ -35,8 +35,8 @@ I am a recent Computer Science graduate with a strong determination to excel in 
 
 | Project                                       | Description                                                                                             | Technologies Used                        |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| **Sign Language to Text Converter** | [cite_start]A real-time system that translates hand gestures into readable text with 95% accuracy[cite: 10, 11].          | [cite_start]`TensorFlow`, `Keras`, `OpenCV`, `Python` [cite: 12] |
-| **Real-Time Fall Detection System** | [cite_start]A surveillance tool for elderly care that detects accidental falls with 92% accuracy[cite: 14, 15].        | [cite_start]`OpenCV`, `Python` [cite: 15]                   |
-| **Car Parking Management System** | [cite_start]An automated system that reduced manual vehicle tracking time by over 70%[cite: 18, 20].                   | [cite_start]`Python` [cite: 18]                             |
+| **Sign Language to Text Converter** | A real-time system that translates hand gestures into readable text with 95% accuracy.          | `TensorFlow`, `Keras`, `OpenCV`, `Python` |
+| **Real-Time Fall Detection System** | A surveillance tool for elderly care that detects accidental falls with 92% accuracy.        | `OpenCV`, `Python`                   |
+| **Car Parking Management System** | An automated system that reduced manual vehicle tracking time by over 70%.                   | `Python`                             |
 
 ---
